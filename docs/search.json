@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "zay-chonnad.github.io",
+    "title": "Zay Chonnad",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "My name is Zay, and I’m an Economics and Environmental Studies double major with a minor in Spatial Studies at UC Santa Barbara. I’m really interested in using Economics and spatial tools like Remote Sensing and ArcGIS Pro to analyze environmental policies and their effects on ecological systems.\nIn my free time, I love to spend my time hiking, kayaking, and rock-scrambling with my friends.\nExplore my page to learn more about me, and feel free to reach out!"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Zay Chonnad",
+    "section": "",
+    "text": "My name is Zay, and I’m an Economics and Environmental Studies double major with a minor in Spatial Studies at UC Santa Barbara. I’m really interested in using Economics and spatial tools like Remote Sensing and ArcGIS Pro to analyze environmental policies and their effects on ecological systems.\nIn my free time, I love to spend my time hiking, kayaking, and rock-scrambling with my friends.\nExplore my page to learn more about me, and feel free to reach out!"
   }
 ]
