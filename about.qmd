@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+## Education
 
-```{r}
-1 + 1
-```
+**BA in Economics, BA in Environmental Studies, and Minor in Spatial Studies** (2025) \| University of California, Santa Barbara

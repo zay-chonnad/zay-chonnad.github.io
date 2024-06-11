@@ -1,3 +1,18 @@
 ---
-title: "Research"
+title: "Experience"
 ---
+
+## Research Assistant 
+
+Recently, I have been assisting Dr. Robert Heilmayr with research in the Conservation Economics Lab by analyzing, geo-referencing, and mapping Chilean state and plantation boundaries on ArcGIS Pro!
+
+## Bren Environmental Leadership Fellow
+
+Over the summer of 2023, I had the incredible experience of assisting a Ph. D. student mentor with their research. In 2004, Paraguay signed the world's first country-level zero-deforestation law, and the goal of this research project is to explore how this agreement impacted land prices and understand how this policy affects large- and small-scale farmers differently. \
+- Analyzed 2,000 Paraguayan property ads on Clasipar for identifiable features with which to find them on an aerial map. \
+- Geo-referenced these property boundaries on Arc GIS Pro by overlaying property image and mapping 6-10 control points. \
+- Presented on research project and methods used to peers and advisors at end-of-summer banquet and a fall symposium.
+
+## Training the Street
+
+Also over the summer of 2023, I completed the Training the Street program as a part of the UC Investment Academy's training. I gained a lot of familiarity with Excel through exercises analyzing companies' 10-K's, calculating accounting ratios, performing corporate valuation, and doing financial modeling.
