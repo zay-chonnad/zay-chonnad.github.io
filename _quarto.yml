@@ -3,18 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "zay-chonnad.github.io"
   navbar:
+    title: "Zay Chonnad"
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - research.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: yeti
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
