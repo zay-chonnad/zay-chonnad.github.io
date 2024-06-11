@@ -8,7 +8,7 @@ about:
   image-width: 20em
   links: 
     - text: LinkedIn
-      href: www.linkedin.com/in/zaychonnad
+      href: https://linkedin.com/in/zaychonnad
     - text: GitHub
       href: https://github.com/zay-chonnad
     - text: Email
