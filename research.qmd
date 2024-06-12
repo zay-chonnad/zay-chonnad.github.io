@@ -2,7 +2,7 @@
 title: "Experience"
 ---
 
-### CEL Research Assistant
+### Conservation Economics Lab Research Assistant
 
 Recently, I have been assisting Dr. Robert Heilmayr with research in the Conservation Economics Lab by analyzing, geo-referencing, and mapping Chilean state and plantation boundaries on ArcGIS Pro!
 
@@ -16,6 +16,6 @@ Over the summer of 2023, I had the incredible experience of assisting a Ph. D. s
 
 -   Presented on research project and methods used to peers and advisors at end-of-summer banquet and a fall symposium.
 
-### Training the Street
+### Training the Street Analyst
 
 Also over the summer of 2023, I completed the Training the Street program as a part of the UC Investment Academy's training. I gained a lot of familiarity with Excel through exercises analyzing companies' 10-K's, calculating accounting ratios, performing corporate valuation, and doing financial modeling.
