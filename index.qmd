@@ -7,11 +7,14 @@ about:
   image-shape: rounded
   image-width: 20em
   links: 
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://linkedin.com/in/zaychonnad
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/zay-chonnad
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mailto:zaychonnad@ucsb.edu
 ---
 

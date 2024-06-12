@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  favicon: media/trsptlogo.png
   navbar:
     title: "Zay Chonnad"
     left:
