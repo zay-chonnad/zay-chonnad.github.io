@@ -1,0 +1,19 @@
+/*-- scss:defaults --*/
+//Import fonts 
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
+// Colors 
+$light-brown: #d7cab7;
+$brown: #5F331F; 
+$orange: #be4f00;
+$light-blue: #bbcee1;
+$dark-blue: #2f3b62;
+$white: #FFFFFF;
+$black: #000000;
+
+// Base document colors
+$navbar-bg: $dark-blue; // navbar
+$navbar-fg: $light-blue; // navbar foreground elements
+$body-bg: $light-blue; // page background 
+$body-color: $dark-blue; // page text 
+

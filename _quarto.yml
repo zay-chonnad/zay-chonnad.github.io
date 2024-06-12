@@ -14,8 +14,8 @@ website:
 
 format:
   html:
-    theme: yeti
-    css: styles.css
+    theme: styles.scss
+    mainfont: Roboto Slab
     toc: true
     page-layout: full
 
