@@ -2,7 +2,7 @@
 title: "Experience"
 ---
 
-### Research Assistant 
+### CEL Research Assistant
 
 Recently, I have been assisting Dr. Robert Heilmayr with research in the Conservation Economics Lab by analyzing, geo-referencing, and mapping Chilean state and plantation boundaries on ArcGIS Pro!
 
