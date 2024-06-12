@@ -20,8 +20,4 @@ about:
 
 ### Welcome!
 
-My name is Zay, and I’m an Economics and Environmental Studies double major with a minor in Spatial Studies at the University of California, Santa Barbara. I'm really interested in using Economics and spatial tools like Remote Sensing and ArcGIS Pro to analyze environmental policies and their effects on ecological systems.
-
-In my free time, I love to spend my time hiking, kayaking, and rock-scrambling with my friends.
-
-Explore my page to learn more about me, and feel free to reach out!
+Feel free to explore and reach out if you have any questions!
