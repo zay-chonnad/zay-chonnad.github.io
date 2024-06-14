@@ -1,7 +1,23 @@
 ---
-title: "About"
+title: "Adventures"
 ---
 
-### Education
+One of my favorite things to do is go on adventures with my friends. Here are a few photos from the most recent trips we went on!
 
-**BA in Economics, BA in Environmental Studies, and Minor in Spatial Studies** (2025) \| University of California, Santa Barbara
+During Winter Break, my good friends and I took a trip to Copenhagen and Amsterdam as our first international trip together. It was an amazing experience to explore the streets of thrift shops of Copenhagen, and watch the New Years fireworks in Amsterdam!
+
+```{r echo = FALSE, out.height = "400px"}
+knitr::include_graphics("media/amsterdam.jpg")
+```
+
+More often, I find myself gravitating towards camping trips to National Parks. Just last summer, I went camping with one of my friends to Yosemite. It was incredibly peaceful to hang out in our tents by a river, and the most rewarding part of the trip was completing the Upper Yosemite Falls hike.
+
+```{r echo = FALSE, out.height = "400px"}
+knitr::include_graphics("media/yosemite.png")
+```
+
+I also spent a few days in Joshua Tree! We spent our days hiking and rock-scrambling, and our nights stargazing. The clear skies was breathtaking; not only did we see more stars than we ever have, but we could also actually see the "milkiness" of the Milky Way.
+
+```{r echo = FALSE, out.height = "400px"}
+knitr::include_graphics("media/joshtree.jpg")
+```

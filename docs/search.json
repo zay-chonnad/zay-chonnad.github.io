@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Zay Chonnad",
     "section": "",
-    "text": "Welcome!\nMy name is Zay, and I’m an Economics and Environmental Studies double major with a minor in Spatial Studies at the University of California, Santa Barbara. I’m really interested in using Economics and spatial tools like Remote Sensing and ArcGIS Pro to analyze environmental policies and their effects on ecological systems.\nIn my free time, I love to spend my time hiking, kayaking, and rock-scrambling with my friends. Feel free to explore my page and reach out if you have any questions!"
+    "text": "Welcome!\nMy name is Zay, and I’m an Economics and Environmental Studies double major with a minor in Spatial Studies at the University of California, Santa Barbara. I’m really interested in using Economics and spatial tools like Remote Sensing and ArcGIS Pro to analyze environmental policies and their effects on ecological systems.\nIn my free time, I love to spend my time hiking, kayaking, and rock-scrambling with my friends. Feel free to explore my page and reach out if you have any questions!\nBA in Economics, BA in Environmental Studies, and Minor in Spatial Studies (2025) | University of California, Santa Barbara"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Adventures",
     "section": "",
-    "text": "Education\nBA in Economics, BA in Environmental Studies, and Minor in Spatial Studies (2025) | University of California, Santa Barbara"
+    "text": "One of my favorite things to do is go on adventures with my friends. Here are a few photos from the most recent trips we went on!\nDuring Winter Break, my good friends and I took a trip to Copenhagen and Amsterdam as our first international trip together. It was an amazing experience to explore the streets of thrift shops of Copenhagen, and watch the New Years fireworks in Amsterdam!\n\n\n\n\n\n\n\n\n\nMore often, I find myself gravitating towards camping trips to National Parks. Just last summer, I went camping with one of my friends to Yosemite. It was incredibly peaceful to hang out in our tents by a river, and the most rewarding part of the trip was completing the Upper Yosemite Falls hike.\n\n\n\n\n\n\n\n\n\nI also spent a few days in Joshua Tree! We spent our days hiking and rock-scrambling, and our nights stargazing. The clear skies was breathtaking; not only did we see more stars than we ever have, but we could also actually see the “milkiness” of the Milky Way."
   },
   {
     "objectID": "index.html#welcome",
@@ -25,7 +25,7 @@
     "href": "research.html",
     "title": "Experience",
     "section": "",
-    "text": "Conservation Economics Lab Research Assistant\nRecently, I have been assisting Dr. Robert Heilmayr with research in the Conservation Economics Lab by analyzing, geo-referencing, and mapping Chilean state and plantation boundaries on ArcGIS Pro!\n\n\nBren Environmental Leadership Fellow\nOver the summer of 2023, I had the incredible experience of assisting a Ph. D. student mentor with their research. In 2004, Paraguay signed the world’s first country-level zero-deforestation law, and the goal of this research project is to explore how this agreement impacted land prices and understand how this policy affects large- and small-scale farmers differently.\n\nAnalyzed 2,000 Paraguayan property ads on Clasipar for identifiable features with which to find them on an aerial map.\nGeo-referenced these property boundaries on Arc GIS Pro by overlaying property image and mapping 6-10 control points.\nPresented on research project and methods used to peers and advisors at end-of-summer banquet and a fall symposium.\n\n\n\nTraining the Street Analyst\nAlso over the summer of 2023, I completed the Training the Street program as a part of the UC Investment Academy’s training. I gained a lot of familiarity with Excel through exercises analyzing companies’ 10-K’s, calculating accounting ratios, performing corporate valuation, and doing financial modeling."
+    "text": "Conservation Economics Lab Research Assistant\nRecently, I have been assisting Dr. Robert Heilmayr with research in the Conservation Economics Lab by analyzing, geo-referencing, and mapping Chilean state and plantation boundaries on ArcGIS Pro!\n\n\n\n\n\n\n\n\n\nCaption: a screenshot of some of the sectors I mapped!\n\n\nBren Environmental Leadership Fellow\nOver the summer of 2023, I had the incredible experience of assisting a Ph. D. student mentor with their research. In 2004, Paraguay signed the world’s first country-level zero-deforestation law, and the goal of this research project is to explore how this agreement impacted land prices and understand how this policy affects large- and small-scale farmers differently.\n\nAnalyzed 2,000 Paraguayan property ads on Clasipar for identifiable features with which to find them on an aerial map.\nGeo-referenced these property boundaries on Arc GIS Pro by overlaying property image and mapping 6-10 control points.\nPresented on research project and methods used to peers and advisors at end-of-summer banquet and a fall symposium.\n\nHere is a photo of me and my poster of my summer research at the Mantell Symposium!\n\n\n\n\n\n\n\n\n\n\n\nTraining the Street Analyst\nAlso over the summer of 2023, I completed the Training the Street program as a part of the UC Investment Academy’s training. I gained a lot of familiarity with Excel through exercises analyzing companies’ 10-K’s, calculating accounting ratios, performing corporate valuation, and doing financial modeling.\n\n\n\n\n\n\n\n\n\nCaption: My Training the Street profile, with all modules complete."
   },
   {
     "objectID": "research.html#research-assistant",
@@ -61,5 +61,12 @@
     "title": "About",
     "section": "",
     "text": "BA in Economics, BA in Environmental Studies, and Minor in Spatial Studies (2025) | University of California, Santa Barbara"
+  },
+  {
+    "objectID": "coding.html",
+    "href": "coding.html",
+    "title": "Coding Journey",
+    "section": "",
+    "text": "My coding journey starts with an upper-division Statistics and Data Science class I took as part of my Environmental Studies major. Here, I mainly learned how to work with R, Quarto, and make this website. It’s fun to look back at where I started at the beginning of this class and where I am now, here are snapshots of my journey as of yet!\nLooking back at my first Homework Assignment, it’s fun to reminisce about my introduction to R. Here is a simple scatterplot I had made after being introduced to ggplot, the geom_point() function, and adding labels to my figures.\n\n\n\n\n\n\n\n\n\nMoving on to Homework 2, it’s cool to see how much I grew just within the span of weeks. After creating a “clean” data frame by mutating the original dataset to change column names, selecting the columns that I would need for my plot, and filtering for the the data in the specific year I was looking at, I plotted a QQ Plot in my introduction to diagnostics plots I would later use to run linear regressions. This is also where I learned to use the facet_wrap() function, to create these QQ Plots.\n\n\n\n\n\n\n\n\n\nLastly, my biggest take-away from Homework 3 was learning how to use the Akaike Information Criterian (AIC) test to determine the best multiple linear regression model for me to use. Looking at the results of this test, we can see that Model 4, which uses variables “species_name” and “water_treatment” is the best model to use for the regression, since it is the first listed and it’s delta AIC value is 0.0.\n\n\n\n\n\n\n\n\n\nI’ll continue to keep updating this page as I continue to grow and use R for data analysis!"
   }
 ]
