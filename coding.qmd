@@ -1,0 +1,25 @@
+---
+title: "Coding Journey"
+---
+
+My coding journey starts with an upper-division Statistics and Data Science class I took as part of my Environmental Studies major. Here, I mainly learned how to work with R, Quarto, and make this website. It's fun to look back at where I started at the beginning of this class and where I am now, here are snapshots of my journey as of yet!
+
+Looking back at my first Homework Assignment, it's fun to reminisce about my introduction to R. Here is a simple scatterplot I had made after being introduced to ggplot, the geom_point() function, and adding labels to my figures.
+
+```{r echo = FALSE, out.height = "400px"}
+knitr::include_graphics("media/hw1.png")
+```
+
+Moving on to Homework 2, it's cool to see how much I grew just within the span of weeks. After creating a "clean" data frame by mutating the original dataset to change column names, selecting the columns that I would need for my plot, and filtering for the the data in the specific year I was looking at, I plotted a QQ Plot in my introduction to diagnostics plots I would later use to run linear regressions. This is also where I learned to use the facet_wrap() function, to create these QQ Plots.
+
+```{r echo = FALSE, out.height = "400px"}
+knitr::include_graphics("media/hw2.png")
+```
+
+Lastly, my biggest take-away from Homework 3 was learning how to use the Akaike Information Criterian (AIC) test to determine the best multiple linear regression model for me to use. Looking at the results of this test, we can see that Model 4, which uses variables "species_name" and "water_treatment" is the best model to use for the regression, since it is the first listed and it's delta AIC value is 0.0.
+
+```{r echo = FALSE, out.width = "600px"}
+knitr::include_graphics("media/hw3.png")
+```
+
+I'll continue to keep updating this page as I continue to grow and use R for data analysis!

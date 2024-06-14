@@ -6,6 +6,12 @@ title: "Experience"
 
 Recently, I have been assisting Dr. Robert Heilmayr with research in the Conservation Economics Lab by analyzing, geo-referencing, and mapping Chilean state and plantation boundaries on ArcGIS Pro!
 
+```{r echo = FALSE, out.height = "400px"}
+knitr::include_graphics("media/cel.png")
+```
+
+Caption: a screenshot of some of the sectors I mapped!
+
 ### Bren Environmental Leadership Fellow
 
 Over the summer of 2023, I had the incredible experience of assisting a Ph. D. student mentor with their research. In 2004, Paraguay signed the world's first country-level zero-deforestation law, and the goal of this research project is to explore how this agreement impacted land prices and understand how this policy affects large- and small-scale farmers differently.
@@ -16,6 +22,18 @@ Over the summer of 2023, I had the incredible experience of assisting a Ph. D. s
 
 -   Presented on research project and methods used to peers and advisors at end-of-summer banquet and a fall symposium.
 
+Here is a photo of me and my poster of my summer research at the Mantell Symposium!
+
+```{r echo = FALSE, out.height = "400px"}
+knitr::include_graphics("media/mantell.jpg")
+```
+
 ### Training the Street Analyst
 
 Also over the summer of 2023, I completed the Training the Street program as a part of the UC Investment Academy's training. I gained a lot of familiarity with Excel through exercises analyzing companies' 10-K's, calculating accounting ratios, performing corporate valuation, and doing financial modeling.
+
+```{r echo = FALSE, out.height = "400px"}
+knitr::include_graphics("media/tts.jpg")
+```
+
+Caption: My Training the Street profile, with all modules complete.
